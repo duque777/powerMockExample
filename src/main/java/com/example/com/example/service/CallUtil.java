@@ -1,6 +1,6 @@
 package com.example.com.example.service;
 
-import com.example.Util;
+import com.example.com.example.utils.Util;
 
 public class CallUtil {
 

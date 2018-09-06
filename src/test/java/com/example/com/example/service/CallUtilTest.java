@@ -1,6 +1,6 @@
 package com.example.com.example.service;
 
-import com.example.Util;
+import com.example.com.example.utils.Util;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;
